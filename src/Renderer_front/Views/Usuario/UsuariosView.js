@@ -19,13 +19,13 @@ class UsuariosView{
                     <label>Nome:</label>
                     <input type="text" id="nome"/>
                     <label>E-mail:</label>
-                    <input type="number" id="email"/>
+                    <input type="text" id="email"/>
                     <label>Senha:</label>
-                    <input type="number" id="senha"/>
+                    <input type="text" id="senha"/>
                     <label>tipo:</label>
-                    <input type="number" id="tipo"/>
+                    <input type="text" id="tipo"/>
                     <label>status:</label>
-                    <input type="number" id="status"/>
+                    <input type="text" id="status"/>
                     <button>Salvar</button>
                 </form>`
     }
